@@ -2256,12 +2256,6 @@
 		(uuid "8fa9954e-280b-4856-af26-8ded8c67408f")
 	)
 	(junction
-		(at 257.81 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9144b321-31c6-4958-8c8a-478db42d2934")
-	)
-	(junction
 		(at 133.35 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2619,13 +2613,13 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 76.2) (xy 264.16 124.46)
+			(xy 252.73 123.19) (xy 252.73 130.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "02db005c-eaaf-4b81-992d-d30b28212a81")
+		(uuid "02021cda-c329-47d5-ac4a-7b772b255e3b")
 	)
 	(wire
 		(pts
@@ -2676,6 +2670,16 @@
 			(type default)
 		)
 		(uuid "07b22f98-94de-4813-a0f9-d5257270835f")
+	)
+	(wire
+		(pts
+			(xy 250.19 121.92) (xy 250.19 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08a529ba-87dd-4f71-a2d3-45719a252f8d")
 	)
 	(wire
 		(pts
@@ -2949,16 +2953,6 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 124.46) (xy 255.27 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a1b3582-3a2d-4fd5-be62-3aea51db9d80")
-	)
-	(wire
-		(pts
 			(xy 33.02 36.83) (xy 33.02 48.26)
 		)
 		(stroke
@@ -3019,6 +3013,16 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 118.11) (xy 259.08 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1db9325a-af07-47b3-af09-adde9759a6e6")
+	)
+	(wire
+		(pts
 			(xy 82.55 114.3) (xy 96.52 114.3)
 		)
 		(stroke
@@ -3039,7 +3043,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 73.66) (xy 254 73.66)
+			(xy 264.16 73.66) (xy 254 73.66)
 		)
 		(stroke
 			(width 0)
@@ -3086,6 +3090,16 @@
 			(type default)
 		)
 		(uuid "21385d8f-bf7a-4615-99fe-fa1dc317b3e7")
+	)
+	(wire
+		(pts
+			(xy 255.27 124.46) (xy 255.27 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22f885ae-5248-4857-869a-09916bbab488")
 	)
 	(wire
 		(pts
@@ -3189,16 +3203,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 130.81) (xy 247.65 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2af151f9-9c1d-4e31-bdc2-a8e03cf701f6")
-	)
-	(wire
-		(pts
 			(xy 90.17 129.54) (xy 195.58 129.54)
 		)
 		(stroke
@@ -3229,6 +3233,26 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 119.38) (xy 260.35 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f1eee4e-cf51-4028-9415-68554a344f62")
+	)
+	(wire
+		(pts
+			(xy 247.65 120.65) (xy 261.62 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "304aaebf-e138-4c07-bd24-d78ff8e42943")
+	)
+	(wire
+		(pts
 			(xy 68.58 68.58) (xy 68.58 71.12)
 		)
 		(stroke
@@ -3236,16 +3260,6 @@
 			(type default)
 		)
 		(uuid "308a86ca-4b2f-4f7f-a53c-8f19db8835b6")
-	)
-	(wire
-		(pts
-			(xy 247.65 120.65) (xy 260.35 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30d314af-b4b5-4cc4-b1e8-eb544910675d")
 	)
 	(wire
 		(pts
@@ -3309,7 +3323,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 66.04) (xy 254 66.04)
+			(xy 266.7 66.04) (xy 254 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3359,6 +3373,16 @@
 	)
 	(wire
 		(pts
+			(xy 252.73 123.19) (xy 264.16 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a46e6e2-be25-487b-a664-dc619ba8dc26")
+	)
+	(wire
+		(pts
 			(xy 82.55 57.15) (xy 82.55 59.69)
 		)
 		(stroke
@@ -3399,16 +3423,6 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 127) (xy 260.35 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cb3c533-0e2d-4521-b6f8-e3c974eeb4fd")
-	)
-	(wire
-		(pts
 			(xy 39.37 102.87) (xy 39.37 105.41)
 		)
 		(stroke
@@ -3439,16 +3453,6 @@
 	)
 	(wire
 		(pts
-			(xy 256.54 118.11) (xy 256.54 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d9d3f57-f2fd-4eb5-9260-1d5673d6f0aa")
-	)
-	(wire
-		(pts
 			(xy 125.73 102.87) (xy 153.67 102.87)
 		)
 		(stroke
@@ -3459,7 +3463,17 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 83.82) (xy 260.35 120.65)
+			(xy 257.81 125.73) (xy 257.81 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e6c9df6-bd6a-4af4-a998-03e38adc3d62")
+	)
+	(wire
+		(pts
+			(xy 260.35 83.82) (xy 260.35 119.38)
 		)
 		(stroke
 			(width 0)
@@ -3506,16 +3520,6 @@
 			(type default)
 		)
 		(uuid "44498c48-de63-4f42-81ec-4f29f46c3cbc")
-	)
-	(wire
-		(pts
-			(xy 254 76.2) (xy 264.16 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4470111d-9d1f-4cad-ba55-b9f66cb03fc8")
 	)
 	(wire
 		(pts
@@ -3689,23 +3693,13 @@
 	)
 	(wire
 		(pts
-			(xy 261.62 81.28) (xy 261.62 121.92)
+			(xy 261.62 81.28) (xy 261.62 120.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "51bd36ee-dcbe-4717-a573-30924424f5ae")
-	)
-	(wire
-		(pts
-			(xy 262.89 128.27) (xy 267.97 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "52b7d44c-8434-4e48-8587-b1db11ad26ac")
 	)
 	(wire
 		(pts
@@ -3779,7 +3773,7 @@
 	)
 	(wire
 		(pts
-			(xy 267.97 128.27) (xy 267.97 66.04)
+			(xy 266.7 125.73) (xy 266.7 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3859,16 +3853,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 101.6) (xy 257.81 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5fe49cef-1f1c-4be7-90b1-43174e6fa16c")
-	)
-	(wire
-		(pts
 			(xy 90.17 71.12) (xy 90.17 82.55)
 		)
 		(stroke
@@ -3939,6 +3923,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 119.38) (xy 245.11 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "656dd7d6-32d3-4602-84af-8fb6cb3da6a9")
+	)
+	(wire
+		(pts
 			(xy 90.17 48.26) (xy 90.17 59.69)
 		)
 		(stroke
@@ -3979,7 +3973,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 68.58) (xy 266.7 127)
+			(xy 265.43 68.58) (xy 265.43 124.46)
 		)
 		(stroke
 			(width 0)
@@ -4099,7 +4093,7 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 100.33) (xy 257.81 50.8)
+			(xy 257.81 50.8) (xy 257.81 101.6)
 		)
 		(stroke
 			(width 0)
@@ -4136,6 +4130,16 @@
 			(type default)
 		)
 		(uuid "767aa888-52cc-4740-b0f6-16f8433d9b18")
+	)
+	(wire
+		(pts
+			(xy 256.54 88.9) (xy 256.54 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76f3010c-212b-4b91-ab98-6886b0529b92")
 	)
 	(wire
 		(pts
@@ -4209,13 +4213,13 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 130.81) (xy 252.73 123.19)
+			(xy 250.19 121.92) (xy 262.89 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7e801504-0214-4c7d-8d7c-f5616fe6fa60")
+		(uuid "7d5be056-aef1-47dd-aeb4-94aadf6458e9")
 	)
 	(wire
 		(pts
@@ -4479,6 +4483,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 124.46) (xy 265.43 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92293b2b-56af-46c8-94b9-23290132ca1c")
+	)
+	(wire
+		(pts
 			(xy 96.52 102.87) (xy 96.52 105.41)
 		)
 		(stroke
@@ -4649,16 +4663,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 118.11) (xy 256.54 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f346a16-4aa2-429f-b9e2-7a2f6caf1490")
-	)
-	(wire
-		(pts
 			(xy 218.44 83.82) (xy 210.82 83.82)
 		)
 		(stroke
@@ -4706,16 +4710,6 @@
 			(type default)
 		)
 		(uuid "a35764c0-885f-4589-96f8-b51a3e4f22ff")
-	)
-	(wire
-		(pts
-			(xy 158.75 100.33) (xy 257.81 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a35ee31b-479b-4427-9e57-f958906e9129")
 	)
 	(wire
 		(pts
@@ -4816,16 +4810,6 @@
 			(type default)
 		)
 		(uuid "a92a32e5-5e27-48b6-b7c5-46912592ab50")
-	)
-	(wire
-		(pts
-			(xy 257.81 125.73) (xy 265.43 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a961d1ad-c535-4447-b423-c4be1f4591e2")
 	)
 	(wire
 		(pts
@@ -4959,23 +4943,13 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 125.73) (xy 265.43 73.66)
+			(xy 264.16 123.19) (xy 264.16 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b2b67453-764a-42e6-b1a7-cd6b5de83aee")
-	)
-	(wire
-		(pts
-			(xy 259.08 119.38) (xy 245.11 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b30049b5-3bb8-40f7-b9bb-b7a07fe7d4fd")
 	)
 	(wire
 		(pts
@@ -4986,16 +4960,6 @@
 			(type default)
 		)
 		(uuid "b5ed9551-830e-4719-8d96-29304e570deb")
-	)
-	(wire
-		(pts
-			(xy 250.19 121.92) (xy 250.19 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b636241f-9d3c-4226-b8da-e4bc83c26b56")
 	)
 	(wire
 		(pts
@@ -5049,16 +5013,6 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 127) (xy 260.35 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b94590e7-499c-4be3-b5dc-8ca010b1c8bf")
-	)
-	(wire
-		(pts
 			(xy 76.2 128.27) (xy 196.85 128.27)
 		)
 		(stroke
@@ -5089,16 +5043,6 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 124.46) (xy 255.27 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bc59aa43-486d-4932-82d8-d3068eb30830")
-	)
-	(wire
-		(pts
 			(xy 133.35 116.84) (xy 133.35 133.35)
 		)
 		(stroke
@@ -5126,16 +5070,6 @@
 			(type default)
 		)
 		(uuid "bd9ae7dd-b35c-409a-8ebd-fafa807b8073")
-	)
-	(wire
-		(pts
-			(xy 262.89 130.81) (xy 262.89 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "beaa7263-ab16-4a43-8a18-61105896485c")
 	)
 	(wire
 		(pts
@@ -5339,16 +5273,6 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 123.19) (xy 262.89 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cad4054f-7f2c-4797-9f60-3744867df9ef")
-	)
-	(wire
-		(pts
 			(xy 208.28 116.84) (xy 232.41 116.84)
 		)
 		(stroke
@@ -5386,6 +5310,16 @@
 			(type default)
 		)
 		(uuid "cd4df01f-8277-41ee-8036-04b6f48f7616")
+	)
+	(wire
+		(pts
+			(xy 242.57 118.11) (xy 242.57 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdb54255-2222-4c12-94a6-ac7c4b4d62ac")
 	)
 	(wire
 		(pts
@@ -5446,16 +5380,6 @@
 			(type default)
 		)
 		(uuid "d44a9efb-7ec7-40c1-81e4-e4b6513520dc")
-	)
-	(wire
-		(pts
-			(xy 261.62 121.92) (xy 250.19 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4ee6f69-3326-448b-a834-37a35572a35d")
 	)
 	(wire
 		(pts
@@ -5579,16 +5503,6 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 119.38) (xy 245.11 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd59b047-7fd7-451d-a812-61adf53384f1")
-	)
-	(wire
-		(pts
 			(xy 111.76 34.29) (xy 125.73 34.29)
 		)
 		(stroke
@@ -5616,16 +5530,6 @@
 			(type default)
 		)
 		(uuid "df7accb8-7e08-4414-95b2-7c169e30f901")
-	)
-	(wire
-		(pts
-			(xy 242.57 130.81) (xy 242.57 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df9af88c-20ef-4501-92c8-5d5b56258bd2")
 	)
 	(wire
 		(pts
@@ -5709,7 +5613,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 68.58) (xy 266.7 68.58)
+			(xy 254 68.58) (xy 265.43 68.58)
 		)
 		(stroke
 			(width 0)
@@ -5729,7 +5633,7 @@
 	)
 	(wire
 		(pts
-			(xy 259.08 86.36) (xy 259.08 119.38)
+			(xy 259.08 86.36) (xy 259.08 118.11)
 		)
 		(stroke
 			(width 0)
@@ -5969,16 +5873,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 130.81) (xy 257.81 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3b90404-691a-4a8f-91e0-8de8a78843d6")
-	)
-	(wire
-		(pts
 			(xy 54.61 57.15) (xy 54.61 59.69)
 		)
 		(stroke
@@ -6059,7 +5953,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 123.19) (xy 262.89 78.74)
+			(xy 262.89 121.92) (xy 262.89 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6169,6 +6063,26 @@
 	)
 	(wire
 		(pts
+			(xy 256.54 100.33) (xy 158.75 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb847f4f-d62d-46e8-b303-dec8c12a5c36")
+	)
+	(wire
+		(pts
+			(xy 247.65 120.65) (xy 247.65 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbcf8913-a9ce-4a3b-a261-b6699f7e5cac")
+	)
+	(wire
+		(pts
 			(xy 39.37 68.58) (xy 54.61 68.58)
 		)
 		(stroke
@@ -6216,6 +6130,16 @@
 			(type default)
 		)
 		(uuid "fdd04453-28e3-43fb-9242-644e706fd0a5")
+	)
+	(wire
+		(pts
+			(xy 257.81 125.73) (xy 266.7 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdd58119-b249-4287-a102-2c1ecfa1f3a6")
 	)
 	(wire
 		(pts
@@ -6334,8 +6258,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "01c38a47-34a3-49e9-b918-421da8a100eb")
-		(property "Reference" "J21"
-			(at 257.81 154.178 0)
+		(property "Reference" "GPIO27"
+			(at 257.81 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6348,6 +6272,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -6383,7 +6308,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J21")
+					(reference "GPIO27")
 					(unit 1)
 				)
 			)
@@ -7010,8 +6935,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "24678a85-f8a9-48fc-aef6-f1b5ec264ef8")
-		(property "Reference" "J7"
-			(at 222.25 154.178 0)
+		(property "Reference" "GPIO10"
+			(at 222.25 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7024,6 +6949,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -7059,7 +6985,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J7")
+					(reference "GPIO10")
 					(unit 1)
 				)
 			)
@@ -7278,8 +7204,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3467571c-9ba7-4e45-935c-2aaf5ab334d9")
-		(property "Reference" "J14"
-			(at 240.03 154.178 0)
+		(property "Reference" "GPIO17"
+			(at 240.03 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7292,6 +7218,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -7327,7 +7254,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J14")
+					(reference "GPIO17")
 					(unit 1)
 				)
 			)
@@ -7410,8 +7337,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "37dca9e2-b4c9-44f8-a209-40539141549d")
-		(property "Reference" "J19"
-			(at 252.73 154.178 0)
+		(property "Reference" "GPIO22"
+			(at 252.73 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7424,6 +7351,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -7459,7 +7387,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J19")
+					(reference "GPIO22")
 					(unit 1)
 				)
 			)
@@ -7474,8 +7402,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "38efd118-76f0-4cb3-aa49-67715aedda34")
-		(property "Reference" "J18"
-			(at 250.19 154.178 0)
+		(property "Reference" "GPIO21"
+			(at 250.19 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7488,6 +7416,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -7523,7 +7452,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J18")
+					(reference "GPIO21")
 					(unit 1)
 				)
 			)
@@ -7606,8 +7535,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "409786d4-e16e-4269-b05b-e830046619a4")
-		(property "Reference" "J13"
-			(at 237.49 154.178 0)
+		(property "Reference" "GPIO16"
+			(at 237.49 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7620,6 +7549,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -7655,7 +7585,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J13")
+					(reference "GPIO16")
 					(unit 1)
 				)
 			)
@@ -7806,8 +7736,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4352e82b-1fe4-45d3-97f8-54b3d89e0216")
-		(property "Reference" "J3"
-			(at 241.808 27.94 0)
+		(property "Reference" "GPIO8"
+			(at 227.838 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7820,6 +7750,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -7855,7 +7786,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J3")
+					(reference "GPIO8")
 					(unit 1)
 				)
 			)
@@ -7938,8 +7869,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4be4704f-084b-41e6-82bd-6d1ca8676baf")
-		(property "Reference" "J16"
-			(at 245.11 154.178 0)
+		(property "Reference" "GPIO19"
+			(at 245.11 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7952,6 +7883,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -7987,7 +7919,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J16")
+					(reference "GPIO19")
 					(unit 1)
 				)
 			)
@@ -8207,7 +8139,7 @@
 		(dnp no)
 		(uuid "589494c4-17e5-45d6-9720-7c3c01eb5e20")
 		(property "Reference" "J1"
-			(at 242.062 25.4 0)
+			(at 228.092 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8220,6 +8152,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -8406,8 +8339,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "69be58ef-e88e-4b44-86dd-ef364d6b505f")
-		(property "Reference" "J20"
-			(at 255.27 154.178 0)
+		(property "Reference" "GPIO26"
+			(at 255.27 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8420,6 +8353,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -8455,7 +8389,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J20")
+					(reference "GPIO26")
 					(unit 1)
 				)
 			)
@@ -8674,8 +8608,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7276303f-8914-4c01-a78e-bf3a2d5ad5aa")
-		(property "Reference" "J10"
-			(at 229.87 154.178 0)
+		(property "Reference" "GPIO12"
+			(at 229.87 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8688,6 +8622,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -8723,7 +8658,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J10")
+					(reference "GPIO12")
 					(unit 1)
 				)
 			)
@@ -9010,8 +8945,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7663dc68-a19f-4b86-8994-640ba079a7f8")
-		(property "Reference" "J15"
-			(at 242.57 154.178 0)
+		(property "Reference" "GPIO18"
+			(at 242.57 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9024,6 +8959,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -9059,7 +8995,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J15")
+					(reference "GPIO18")
 					(unit 1)
 				)
 			)
@@ -9142,8 +9078,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7d2662e9-1c66-476b-961b-463a22efe731")
-		(property "Reference" "J5"
-			(at 241.808 33.02 0)
+		(property "Reference" "GPIO6"
+			(at 227.838 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9156,6 +9092,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -9191,7 +9128,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J5")
+					(reference "GPIO6")
 					(unit 1)
 				)
 			)
@@ -9607,70 +9544,6 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
-		(at 262.89 135.89 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9ee17cc2-32f7-496b-b9e9-92b1e4b889dc")
-		(property "Reference" "J23"
-			(at 262.89 154.178 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 263.144 144.526 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
-			(at 262.89 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 262.89 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 262.89 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "34395a07-0517-4041-992a-ae065b418472")
-		)
-		(instances
-			(project "led-matrix"
-				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Pin")
 		(at 219.71 135.89 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9678,8 +9551,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9f6f784c-7fe2-418f-9fd6-f5f7302858fb")
-		(property "Reference" "J6"
-			(at 219.71 154.178 0)
+		(property "Reference" "GPIO1"
+			(at 219.71 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9692,6 +9565,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -9727,7 +9601,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J6")
+					(reference "GPIO1")
 					(unit 1)
 				)
 			)
@@ -9742,8 +9616,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9fb1c284-d97b-4d22-925a-81de732d8283")
-		(property "Reference" "J2"
-			(at 217.17 154.178 0)
+		(property "Reference" "GPIO0"
+			(at 217.17 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9756,6 +9630,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -9791,7 +9666,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J2")
+					(reference "GPIO0")
 					(unit 1)
 				)
 			)
@@ -10010,8 +9885,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a3d7c6c1-3566-48a8-bf15-015df9747a46")
-		(property "Reference" "J17"
-			(at 247.65 154.178 0)
+		(property "Reference" "GPIO20"
+			(at 247.65 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10024,6 +9899,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -10059,7 +9935,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J17")
+					(reference "GPIO20")
 					(unit 1)
 				)
 			)
@@ -10810,8 +10686,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c3227c74-181e-43da-8f4d-756cc73c34c6")
-		(property "Reference" "J8"
-			(at 224.79 154.178 0)
+		(property "Reference" "GPIO11"
+			(at 224.79 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10824,6 +10700,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -10859,7 +10736,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J8")
+					(reference "GPIO11")
 					(unit 1)
 				)
 			)
@@ -11282,8 +11159,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d9ebbca0-69ca-46f4-a8c5-dcdd2f7ea064")
-		(property "Reference" "J4"
-			(at 241.808 30.48 0)
+		(property "Reference" "GPIO7"
+			(at 227.838 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11296,6 +11173,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -11331,71 +11209,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Pin")
-		(at 260.35 135.89 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "dad15f07-1362-4ab5-97da-fb9fa4766615")
-		(property "Reference" "J22"
-			(at 260.35 154.178 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x01_Pin"
-			(at 260.604 144.526 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
-			(at 260.35 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 260.35 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 260.35 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "60493575-88ed-4bb2-a365-1c47ae4fbe81")
-		)
-		(instances
-			(project "led-matrix"
-				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J22")
+					(reference "GPIO7")
 					(unit 1)
 				)
 			)
@@ -11682,8 +11496,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eba2c1e3-4012-4c65-929f-19b899d470d0")
-		(property "Reference" "J11"
-			(at 232.41 154.178 0)
+		(property "Reference" "GPIO14"
+			(at 232.41 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11696,6 +11510,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -11731,7 +11546,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J11")
+					(reference "GPIO14")
 					(unit 1)
 				)
 			)
@@ -11746,8 +11561,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ed47bcd2-75d1-430c-968b-7b65d5587351")
-		(property "Reference" "J12"
-			(at 234.95 154.178 0)
+		(property "Reference" "GPIO15"
+			(at 234.95 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11760,6 +11575,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -11795,7 +11611,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J12")
+					(reference "GPIO15")
 					(unit 1)
 				)
 			)
@@ -12221,8 +12037,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f99a3d14-95d4-4bf2-9a28-f67c3e89518e")
-		(property "Reference" "J9"
-			(at 227.33 154.178 0)
+		(property "Reference" "GPIO12"
+			(at 227.33 138.938 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12235,6 +12051,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
@@ -12270,7 +12087,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J9")
+					(reference "GPIO12")
 					(unit 1)
 				)
 			)
