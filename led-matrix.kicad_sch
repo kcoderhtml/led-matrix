@@ -8733,10 +8733,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bca453d8-0a0b-434a-83bb-5336ab610670")
 		(property "Reference" "C1"
-			(at 162.56 41.9099 0)
+			(at 161.29 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8744,8 +8743,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
-			(at 162.56 44.4499 0)
+		(property "Value" "100n"
+			(at 160.02 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
