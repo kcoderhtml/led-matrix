@@ -144,7 +144,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "0142d5d1-952f-411b-9ff0-a113cb9b91d1")
-		(at 173 100)
+		(at 173.5 102.125)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J20"
@@ -1382,7 +1382,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "0928f67c-cba6-4893-9763-d1c8f6338c06")
-		(at 137.5 64.5)
+		(at 137.730766 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J8"
@@ -1861,7 +1861,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "0c6c6ad8-0393-42ab-915d-e3ab5f911935")
-		(at 173.5 106)
+		(at 173.5 108.25)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J21"
@@ -2087,7 +2087,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "0c893ce0-23c8-41ec-ab05-d71e3f2e8ee7")
-		(at 170.5 64.5)
+		(at 173.5 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J14"
@@ -2313,7 +2313,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "0fb3d7ec-7674-47fc-a4a8-91a6e26de9f4")
-		(at 173 88.5)
+		(at 173.5 89.875)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J18"
@@ -2539,7 +2539,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "109e7bc8-39bd-45ca-9ce6-d33199fc1db4")
-		(at 165 64.5)
+		(at 167.538456 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J13"
@@ -2554,7 +2554,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01_Pin"
-			(at 0 -2.05 0)
+			(at 3 -2.05 0)
 			(layer "F.Fab")
 			(uuid "6dcb9574-d3fc-49aa-a439-224dba13b85b")
 			(effects
@@ -5548,7 +5548,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "2e69d2e2-b965-40ee-9351-3a2304f515e3")
-		(at 102 65)
+		(at 101.961538 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J2"
@@ -6027,7 +6027,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "39c653e2-4130-4c14-a433-bfe6feb2f733")
-		(at 173 76.5)
+		(at 173.5 77.625)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J16"
@@ -7771,7 +7771,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "48c77a16-6425-4d71-b68c-302c0cc967ba")
-		(at 108 65)
+		(at 107.923076 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J3"
@@ -13624,7 +13624,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "7b55e94c-9900-4ec2-94d1-597cb26f5306")
-		(at 173 71)
+		(at 173.5 71.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J15"
@@ -14609,7 +14609,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "8d3b1c80-4cb6-43a5-9527-33d515c74a81")
-		(at 173 94.5)
+		(at 173.5 96)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J19"
@@ -15088,7 +15088,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "94d192d2-0b7a-480d-9c9c-16de1f8ec812")
-		(at 159.5 64.5)
+		(at 161.576918 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J12"
@@ -16579,7 +16579,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "a67dac4d-59f6-4309-8dd4-dbfbe2946d35")
-		(at 173 112.5)
+		(at 173.5 114.375)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J22"
@@ -16805,7 +16805,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "a9988a73-3bab-4faa-9dab-672c14583335")
-		(at 173 120)
+		(at 173.5 120.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J23"
@@ -18043,7 +18043,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "b5543664-5a33-4623-bf77-59a1abbe6df0")
-		(at 120 65)
+		(at 119.846152 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J5"
@@ -19809,7 +19809,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "c17844c2-d84c-445b-b14c-2fec99b8a513")
-		(at 114 65)
+		(at 113.884614 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J4"
@@ -20541,7 +20541,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "cd290507-954d-41b3-95dc-c933c6c8e09f")
-		(at 148.5 64.5)
+		(at 149.653842 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J10"
@@ -21526,7 +21526,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "d9274b9d-6040-4525-b115-f322ced38b86")
-		(at 132 64.5)
+		(at 131.769228 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J7"
@@ -22005,7 +22005,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "e0d26d50-6912-488d-8645-cd637c1abfe6")
-		(at 173 82.5)
+		(at 173.5 83.75)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J17"
@@ -22231,7 +22231,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "e60e8d3e-6574-4060-aff5-080bea210ce2")
-		(at 143 64.5)
+		(at 143.692304 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J9"
@@ -23469,7 +23469,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "f9052a69-6c29-4b85-9cd0-407555fdbd38")
-		(at 126 65)
+		(at 125.80769 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J6"
@@ -23695,7 +23695,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "fbf9b549-6ac5-4ac4-b3a6-424a342f438c")
-		(at 154 64.5)
+		(at 155.61538 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J11"
