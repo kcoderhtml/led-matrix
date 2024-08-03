@@ -144,7 +144,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "0142d5d1-952f-411b-9ff0-a113cb9b91d1")
-		(at 171 119.15)
+		(at 173 100)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J20"
@@ -1382,7 +1382,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "0928f67c-cba6-4893-9763-d1c8f6338c06")
-		(at 160.9 119.15)
+		(at 137.5 64.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J8"
@@ -1861,7 +1861,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "0c6c6ad8-0393-42ab-915d-e3ab5f911935")
-		(at 171 123.6)
+		(at 173.5 106)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J21"
@@ -2087,7 +2087,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "0c893ce0-23c8-41ec-ab05-d71e3f2e8ee7")
-		(at 165.95 119.15)
+		(at 170.5 64.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J14"
@@ -2313,7 +2313,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "0fb3d7ec-7674-47fc-a4a8-91a6e26de9f4")
-		(at 165.95 136.95)
+		(at 173 88.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J18"
@@ -2539,7 +2539,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "109e7bc8-39bd-45ca-9ce6-d33199fc1db4")
-		(at 165.95 114.7)
+		(at 165 64.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J13"
@@ -5548,7 +5548,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "2e69d2e2-b965-40ee-9351-3a2304f515e3")
-		(at 155.85 119.15)
+		(at 102 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J2"
@@ -6027,7 +6027,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "39c653e2-4130-4c14-a433-bfe6feb2f733")
-		(at 165.95 128.05)
+		(at 173 76.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J16"
@@ -7027,7 +7027,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 1.27 2.96 0)
+			(at 0.67 2.8 0)
 			(layer "F.Fab")
 			(uuid "dad30070-eb1b-4c3d-accd-389a31d9552b")
 			(effects
@@ -7771,7 +7771,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "48c77a16-6425-4d71-b68c-302c0cc967ba")
-		(at 155.85 123.6)
+		(at 108 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J3"
@@ -8503,7 +8503,7 @@
 	(footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH"
 		(layer "F.Cu")
 		(uuid "505df19c-6693-4ede-89af-4412de339019")
-		(at 110.315 94.635)
+		(at 105.39 94.635)
 		(descr "Through hole straight pin header, 2x20, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x20 2.54mm double row")
 		(property "Reference" "U2"
@@ -9638,17 +9638,6 @@
 				)
 			)
 		)
-		(fp_text user "Copper Keepouts shown on Dwgs layer"
-			(at 0.1 -30.2 0)
-			(layer "Cmts.User")
-			(uuid "1cf35b8f-bb37-484f-92d9-86baeb112494")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 180)
 			(layer "F.Fab")
@@ -10692,11 +10681,11 @@
 	(footprint "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 		(layer "F.Cu")
 		(uuid "522cc0c3-c0ae-4ff7-87da-526160e97fe8")
-		(at 123.93 129.46)
+		(at 166.5 119.095 -90)
 		(descr "Resistor, Axial_DIN0204 series, Axial, Vertical, pin pitch=1.9mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0204 series Axial Vertical pin pitch 1.9mm 0.167W length 3.6mm diameter 1.6mm")
 		(property "Reference" "R1"
-			(at 0.95 -1.92 0)
+			(at 0.95 -1.92 90)
 			(layer "F.SilkS")
 			(uuid "52a0dfd7-da95-4956-a487-1c9840f315e9")
 			(effects
@@ -10707,7 +10696,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 0.95 1.92 0)
+			(at 0.95 1.92 90)
 			(layer "F.Fab")
 			(uuid "c6c09884-2ece-4703-ab6b-a2cac20ea081")
 			(effects
@@ -10718,7 +10707,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10731,7 +10720,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10744,7 +10733,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10773,16 +10762,6 @@
 			(uuid "d708a66f-d1bd-45ff-8fc0-4bbd9414ae06")
 		)
 		(fp_line
-			(start -1.05 -1.05)
-			(end -1.05 1.05)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "1646e1fc-5bd3-4be7-b72e-072fd68651d2")
-		)
-		(fp_line
 			(start -1.05 1.05)
 			(end 2.86 1.05)
 			(stroke
@@ -10793,16 +10772,6 @@
 			(uuid "8d36f6d3-564c-40bb-8dbe-1b57ac6ed097")
 		)
 		(fp_line
-			(start 2.86 -1.05)
-			(end -1.05 -1.05)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "3c12f23c-467c-43ea-bbae-bd147e6595da")
-		)
-		(fp_line
 			(start 2.86 1.05)
 			(end 2.86 -1.05)
 			(stroke
@@ -10811,6 +10780,26 @@
 			)
 			(layer "F.CrtYd")
 			(uuid "6500f66c-f8cd-4984-82e8-fb3aa8bb17be")
+		)
+		(fp_line
+			(start -1.05 -1.05)
+			(end -1.05 1.05)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "1646e1fc-5bd3-4be7-b72e-072fd68651d2")
+		)
+		(fp_line
+			(start 2.86 -1.05)
+			(end -1.05 -1.05)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "3c12f23c-467c-43ea-bbae-bd147e6595da")
 		)
 		(fp_line
 			(start 0 0)
@@ -10834,7 +10823,7 @@
 			(uuid "23f932da-e014-43a9-85c8-533f7903e073")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.95 -1.92 0)
+			(at 0.95 -1.92 90)
 			(layer "F.Fab")
 			(uuid "8e7a7ab9-e124-4a9d-a7c1-2434a369d0ac")
 			(effects
@@ -10845,7 +10834,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -10855,7 +10844,7 @@
 			(uuid "71cd6de5-f7db-4e8b-9b5a-6fc98cc80c35")
 		)
 		(pad "2" thru_hole oval
-			(at 1.9 0)
+			(at 1.9 0 270)
 			(size 1.4 1.4)
 			(drill 0.7)
 			(layers "*.Cu" "*.Mask")
@@ -10879,7 +10868,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "52b275b1-a847-406b-9d24-46d0a8811e24")
-		(at 155.85 114.7)
+		(at 96 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J1"
@@ -13635,7 +13624,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "7b55e94c-9900-4ec2-94d1-597cb26f5306")
-		(at 165.95 123.6)
+		(at 173 71)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J15"
@@ -14620,7 +14609,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "8d3b1c80-4cb6-43a5-9527-33d515c74a81")
-		(at 171 114.7)
+		(at 173 94.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J19"
@@ -15099,7 +15088,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "94d192d2-0b7a-480d-9c9c-16de1f8ec812")
-		(at 160.9 136.95)
+		(at 159.5 64.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J12"
@@ -15593,7 +15582,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 1.27 2.96 0)
+			(at 0.97 2.8 0)
 			(layer "F.Fab")
 			(uuid "3b7b251b-68f7-4ea3-bc7b-04b6a163fa88")
 			(effects
@@ -16590,7 +16579,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "a67dac4d-59f6-4309-8dd4-dbfbe2946d35")
-		(at 171 128.05)
+		(at 173 112.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J22"
@@ -16816,7 +16805,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "a9988a73-3bab-4faa-9dab-672c14583335")
-		(at 171 132.5)
+		(at 173 120)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J23"
@@ -17563,7 +17552,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 1.27 2.96 0)
+			(at 0.57 2.8 0)
 			(layer "F.Fab")
 			(uuid "c0765a04-6328-4792-9d89-f62fed750510")
 			(effects
@@ -18054,7 +18043,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "b5543664-5a33-4623-bf77-59a1abbe6df0")
-		(at 155.85 132.5)
+		(at 120 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J5"
@@ -19039,11 +19028,11 @@
 	(footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b938d3fa-da3a-4c32-8387-14b5a6142825")
-		(at 123.93 125.81)
+		(at 127.68 116.25 -90)
 		(descr "C, Axial series, Axial, Horizontal, pin pitch=7.5mm, , length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf")
 		(tags "C Axial series Axial Horizontal pin pitch 7.5mm  length 3.8mm diameter 2.6mm")
 		(property "Reference" "C1"
-			(at 3.75 -2.42 0)
+			(at 3.75 -2.42 90)
 			(layer "F.SilkS")
 			(uuid "30f0fcfb-4526-41be-a1f7-3622079f1d7d")
 			(effects
@@ -19054,7 +19043,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 3.75 2.42 0)
+			(at 3.75 2.42 90)
 			(layer "F.Fab")
 			(uuid "fcf9f0c7-3bc0-4c86-a7e5-aa28132eb8f2")
 			(effects
@@ -19065,7 +19054,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19078,7 +19067,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19091,7 +19080,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 0 0 0)
+			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19109,26 +19098,6 @@
 		(sheetfile "led-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.04 0)
-			(end 1.73 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "ce49ca0c-1b54-4b5d-982b-2d9089014848")
-		)
-		(fp_line
-			(start 1.73 -1.42)
-			(end 1.73 1.42)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "cd77dcea-8d8b-4e44-a135-654a5a78c49c")
-		)
-		(fp_line
 			(start 1.73 1.42)
 			(end 5.77 1.42)
 			(stroke
@@ -19137,16 +19106,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "5e92c1b8-c128-43cc-a09c-4a208ff43efa")
-		)
-		(fp_line
-			(start 5.77 -1.42)
-			(end 1.73 -1.42)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "2e4c7a19-1a0b-469d-9175-286898d9bbe7")
 		)
 		(fp_line
 			(start 5.77 1.42)
@@ -19159,6 +19118,16 @@
 			(uuid "7192f4a0-74a7-4f32-882c-d40e86461f91")
 		)
 		(fp_line
+			(start 1.04 0)
+			(end 1.73 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ce49ca0c-1b54-4b5d-982b-2d9089014848")
+		)
+		(fp_line
 			(start 6.46 0)
 			(end 5.77 0)
 			(stroke
@@ -19169,14 +19138,24 @@
 			(uuid "c2aef75c-86cd-4833-b891-22c4de073959")
 		)
 		(fp_line
-			(start -1.05 -1.55)
-			(end -1.05 1.55)
+			(start 1.73 -1.42)
+			(end 1.73 1.42)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "b8fe8793-5417-499f-a045-adb58bc27d23")
+			(layer "F.SilkS")
+			(uuid "cd77dcea-8d8b-4e44-a135-654a5a78c49c")
+		)
+		(fp_line
+			(start 5.77 -1.42)
+			(end 1.73 -1.42)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "2e4c7a19-1a0b-469d-9175-286898d9bbe7")
 		)
 		(fp_line
 			(start -1.05 1.55)
@@ -19189,16 +19168,6 @@
 			(uuid "1b44f39e-e75e-40b9-9647-dd4028179078")
 		)
 		(fp_line
-			(start 8.55 -1.55)
-			(end -1.05 -1.55)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "1b98628f-9434-43f7-9e31-2215a7cbaa1a")
-		)
-		(fp_line
 			(start 8.55 1.55)
 			(end 8.55 -1.55)
 			(stroke
@@ -19209,24 +19178,24 @@
 			(uuid "706ba76a-f774-4179-abf0-738cf2f60287")
 		)
 		(fp_line
-			(start 0 0)
-			(end 1.85 0)
+			(start -1.05 -1.55)
+			(end -1.05 1.55)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "e2a9246f-24c3-4c00-8895-5688c4e14ee8")
+			(layer "F.CrtYd")
+			(uuid "b8fe8793-5417-499f-a045-adb58bc27d23")
 		)
 		(fp_line
-			(start 1.85 -1.3)
-			(end 1.85 1.3)
+			(start 8.55 -1.55)
+			(end -1.05 -1.55)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "b98739bb-4299-4a4d-a4e6-7c58e5e1003b")
+			(layer "F.CrtYd")
+			(uuid "1b98628f-9434-43f7-9e31-2215a7cbaa1a")
 		)
 		(fp_line
 			(start 1.85 1.3)
@@ -19239,16 +19208,6 @@
 			(uuid "464223bf-ece3-43cc-bbd5-40b8d8666c2d")
 		)
 		(fp_line
-			(start 5.65 -1.3)
-			(end 1.85 -1.3)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "c52b1cea-73fe-4a15-9a2b-bf61784a58c3")
-		)
-		(fp_line
 			(start 5.65 1.3)
 			(end 5.65 -1.3)
 			(stroke
@@ -19257,6 +19216,16 @@
 			)
 			(layer "F.Fab")
 			(uuid "9a415cd9-9c7f-403d-b2dd-a543f51847f0")
+		)
+		(fp_line
+			(start 0 0)
+			(end 1.85 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e2a9246f-24c3-4c00-8895-5688c4e14ee8")
 		)
 		(fp_line
 			(start 7.5 0)
@@ -19268,8 +19237,28 @@
 			(layer "F.Fab")
 			(uuid "7cf8237c-5e3f-431b-980a-e16f667c45da")
 		)
+		(fp_line
+			(start 1.85 -1.3)
+			(end 1.85 1.3)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "b98739bb-4299-4a4d-a4e6-7c58e5e1003b")
+		)
+		(fp_line
+			(start 5.65 -1.3)
+			(end 1.85 -1.3)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c52b1cea-73fe-4a15-9a2b-bf61784a58c3")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 3.75 0 0)
+			(at 3.75 0 90)
 			(layer "F.Fab")
 			(uuid "d1842810-4fc8-4050-a705-576d41b3a908")
 			(effects
@@ -19280,7 +19269,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0)
+			(at 0 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -19290,7 +19279,7 @@
 			(uuid "2fbdfe51-89d3-42d4-9691-f2852394f728")
 		)
 		(pad "2" thru_hole oval
-			(at 7.5 0)
+			(at 7.5 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -19820,7 +19809,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "c17844c2-d84c-445b-b14c-2fec99b8a513")
-		(at 155.85 128.05)
+		(at 114 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J4"
@@ -20552,7 +20541,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "cd290507-954d-41b3-95dc-c933c6c8e09f")
-		(at 160.9 128.05)
+		(at 148.5 64.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J10"
@@ -21537,7 +21526,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "d9274b9d-6040-4525-b115-f322ced38b86")
-		(at 160.9 114.7)
+		(at 132 64.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J7"
@@ -22016,7 +22005,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "e0d26d50-6912-488d-8645-cd637c1abfe6")
-		(at 165.95 132.5)
+		(at 173 82.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J17"
@@ -22242,7 +22231,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "e60e8d3e-6574-4060-aff5-080bea210ce2")
-		(at 160.9 123.6)
+		(at 143 64.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J9"
@@ -23480,7 +23469,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "f9052a69-6c29-4b85-9cd0-407555fdbd38")
-		(at 155.85 136.95)
+		(at 126 65)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J6"
@@ -23706,7 +23695,7 @@
 	(footprint "Connector_Pin:Pin_D1.2mm_L11.3mm_W3.0mm_Flat"
 		(layer "F.Cu")
 		(uuid "fbf9b549-6ac5-4ac4-b3a6-424a342f438c")
-		(at 160.9 132.5)
+		(at 154 64.5)
 		(descr "solder Pin_ with flat with hole, hole diameter 1.2mm, length 11.3mm, width 3.0mm")
 		(tags "solder Pin_ with flat fork")
 		(property "Reference" "J11"
@@ -23932,7 +23921,7 @@
 	(footprint "max7219:DIL24"
 		(layer "F.Cu")
 		(uuid "fd4ad75e-2171-4710-a678-f05655e2c3de")
-		(at 138.1966 118.1058)
+		(at 148.31 120)
 		(property "Reference" "U1"
 			(at -16.137745 -0.127075 180)
 			(layer "F.SilkS")
