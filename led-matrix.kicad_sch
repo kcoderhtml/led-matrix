@@ -8138,7 +8138,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "589494c4-17e5-45d6-9720-7c3c01eb5e20")
-		(property "Reference" "J1"
+		(property "Reference" "GPIO9"
 			(at 228.092 25.4 0)
 			(effects
 				(font
@@ -8188,7 +8188,7 @@
 		(instances
 			(project ""
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "J1")
+					(reference "GPIO9")
 					(unit 1)
 				)
 			)
@@ -8608,7 +8608,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7276303f-8914-4c01-a78e-bf3a2d5ad5aa")
-		(property "Reference" "GPIO12"
+		(property "Reference" "GPIO13"
 			(at 229.87 138.938 0)
 			(effects
 				(font
@@ -8658,7 +8658,7 @@
 		(instances
 			(project "led-matrix"
 				(path "/14dbb19e-a51b-4674-aa79-c96e0324fb3f"
-					(reference "GPIO12")
+					(reference "GPIO13")
 					(unit 1)
 				)
 			)
