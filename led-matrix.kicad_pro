@@ -52,7 +52,9 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_edge_clearance|88500000|74097254|9765b323-366e-4d84-8e48-fcea35fa2858|de11a455-acc9-4307-827c-99d765f0e2f0"
+      ],
       "meta": {
         "version": 2
       },
@@ -125,7 +127,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
