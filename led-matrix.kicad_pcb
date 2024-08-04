@@ -8755,7 +8755,7 @@
 		(descr "Through hole straight pin header, 2x20, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x20 2.54mm double row")
 		(property "Reference" "U2"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "153c28f0-8df2-4534-a9fb-eeec1614fb22")
 			(effects
@@ -8766,7 +8766,7 @@
 			)
 		)
 		(property "Value" "Pico"
-			(at 0 2.159 360)
+			(at 0 2.159 0)
 			(layer "F.Fab")
 			(uuid "62c4bef2-20f3-4751-9830-0d3f8f258796")
 			(effects
@@ -8777,7 +8777,7 @@
 			)
 		)
 		(property "Footprint" "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "885f6ecd-9513-4a4c-993b-b548ca89f87e")
@@ -8789,7 +8789,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "73e8f405-b10d-469f-b205-3c739232ef39")
@@ -8801,7 +8801,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2cb6ef97-f572-4543-839a-1550584bf1ef")
@@ -9634,7 +9634,7 @@
 			)
 		)
 		(fp_text user "SWCLK"
-			(at -5.7 26.2 360)
+			(at -5.7 26.2 0)
 			(layer "F.SilkS")
 			(uuid "57c6317c-9b0e-407e-9867-56cbe1bd9d32")
 			(effects
@@ -9656,7 +9656,7 @@
 			)
 		)
 		(fp_text user "SWDIO"
-			(at 5.6 26.2 360)
+			(at 5.6 26.2 0)
 			(layer "F.SilkS")
 			(uuid "65997709-45fe-473c-935d-075b5569c2ca")
 			(effects
@@ -9887,7 +9887,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "8f365a96-ee0c-411d-a081-fc0d929e1832")
 			(effects
@@ -25758,20 +25758,28 @@
 		(uuid "b77fc9b8-173b-4b4a-84d0-b1c74c6fe9a3")
 	)
 	(segment
-		(start 126.3282 124.4218)
-		(end 127.5365 125.6301)
+		(start 97.92 125.9)
+		(end 124.85 125.9)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 2)
-		(uuid "46f394a5-7995-466a-8660-18db94e427c9")
+		(uuid "01d7230f-76d5-4083-bfc9-4d57a3a80940")
 	)
 	(segment
-		(start 125.1199 125.6301)
-		(end 153.0397 125.6301)
+		(start 96.5 124.48)
+		(end 97.92 125.9)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 2)
-		(uuid "8bc1f5d1-4c67-4474-96a8-820e495bd233")
+		(uuid "2306caf1-3655-432d-9049-8f3a1ad3da87")
+	)
+	(segment
+		(start 124.85 125.9)
+		(end 127 123.75)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 2)
+		(uuid "265a7e76-1615-4522-b8d0-8fcb158e4850")
 	)
 	(segment
 		(start 165.3344 123.81)
@@ -25782,28 +25790,12 @@
 		(uuid "14b399e0-708b-43a9-b799-369eb73d975a")
 	)
 	(segment
-		(start 127 123.75)
-		(end 126.3282 124.4218)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 2)
-		(uuid "18f91200-f7c9-4c70-a1b6-46409a434e86")
-	)
-	(segment
 		(start 127.6718 124.4218)
 		(end 128.6809 125.4309)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 2)
 		(uuid "19938280-8f43-48f5-bdc6-39f549b7b2b5")
-	)
-	(segment
-		(start 96.9821 125.4121)
-		(end 96.05 124.48)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 2)
-		(uuid "1a76b753-3f09-4235-b54c-66f273232c99")
 	)
 	(segment
 		(start 128.6809 125.4309)
@@ -25940,14 +25932,6 @@
 		(layer "B.Cu")
 		(net 2)
 		(uuid "e10a2791-4f55-4398-aebf-71a417586614")
-	)
-	(segment
-		(start 97.2001 125.6301)
-		(end 96.9821 125.4121)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 2)
-		(uuid "e2f2a725-aa41-4039-86f2-6b71328183e1")
 	)
 	(segment
 		(start 153.53 69.8)
