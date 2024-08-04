@@ -184,7 +184,7 @@
 		(layer "F.Cu")
 		(uuid "00e24798-3128-4d3d-b25e-99b28c0d996a")
 		(at 173 124)
-		(property "Reference" "G***"
+		(property "Reference" "hclogo"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
@@ -18970,7 +18970,7 @@
 	(footprint "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b938d3fa-da3a-4c32-8387-14b5a6142825")
-		(at 126.5144 116.25 -90)
+		(at 127 123.75 90)
 		(descr "C, Axial series, Axial, Horizontal, pin pitch=7.5mm, , length*diameter=3.8*2.6mm^2, http://www.vishay.com/docs/45231/arseries.pdf")
 		(tags "C Axial series Axial Horizontal pin pitch 7.5mm  length 3.8mm diameter 2.6mm")
 		(property "Reference" "C1"
@@ -18997,7 +18997,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19010,7 +19010,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 -90)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19023,7 +19023,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 0 0 -90)
+			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -19041,44 +19041,14 @@
 		(sheetfile "led-matrix.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start 1.73 1.42)
-			(end 5.77 1.42)
+			(start 5.77 -1.42)
+			(end 1.73 -1.42)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5e92c1b8-c128-43cc-a09c-4a208ff43efa")
-		)
-		(fp_line
-			(start 5.77 1.42)
-			(end 5.77 -1.42)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "7192f4a0-74a7-4f32-882c-d40e86461f91")
-		)
-		(fp_line
-			(start 1.04 0)
-			(end 1.73 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "ce49ca0c-1b54-4b5d-982b-2d9089014848")
-		)
-		(fp_line
-			(start 6.46 0)
-			(end 5.77 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "c2aef75c-86cd-4833-b891-22c4de073959")
+			(uuid "2e4c7a19-1a0b-469d-9175-286898d9bbe7")
 		)
 		(fp_line
 			(start 1.73 -1.42)
@@ -19091,44 +19061,44 @@
 			(uuid "cd77dcea-8d8b-4e44-a135-654a5a78c49c")
 		)
 		(fp_line
-			(start 5.77 -1.42)
-			(end 1.73 -1.42)
+			(start 6.46 0)
+			(end 5.77 0)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2e4c7a19-1a0b-469d-9175-286898d9bbe7")
+			(uuid "c2aef75c-86cd-4833-b891-22c4de073959")
 		)
 		(fp_line
-			(start -1.05 1.55)
-			(end 8.55 1.55)
+			(start 1.04 0)
+			(end 1.73 0)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "1b44f39e-e75e-40b9-9647-dd4028179078")
+			(layer "F.SilkS")
+			(uuid "ce49ca0c-1b54-4b5d-982b-2d9089014848")
 		)
 		(fp_line
-			(start 8.55 1.55)
-			(end 8.55 -1.55)
+			(start 5.77 1.42)
+			(end 5.77 -1.42)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "706ba76a-f774-4179-abf0-738cf2f60287")
+			(layer "F.SilkS")
+			(uuid "7192f4a0-74a7-4f32-882c-d40e86461f91")
 		)
 		(fp_line
-			(start -1.05 -1.55)
-			(end -1.05 1.55)
+			(start 1.73 1.42)
+			(end 5.77 1.42)
 			(stroke
-				(width 0.05)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "b8fe8793-5417-499f-a045-adb58bc27d23")
+			(layer "F.SilkS")
+			(uuid "5e92c1b8-c128-43cc-a09c-4a208ff43efa")
 		)
 		(fp_line
 			(start 8.55 -1.55)
@@ -19141,44 +19111,44 @@
 			(uuid "1b98628f-9434-43f7-9e31-2215a7cbaa1a")
 		)
 		(fp_line
-			(start 1.85 1.3)
-			(end 5.65 1.3)
+			(start -1.05 -1.55)
+			(end -1.05 1.55)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "464223bf-ece3-43cc-bbd5-40b8d8666c2d")
+			(layer "F.CrtYd")
+			(uuid "b8fe8793-5417-499f-a045-adb58bc27d23")
 		)
 		(fp_line
-			(start 5.65 1.3)
-			(end 5.65 -1.3)
+			(start 8.55 1.55)
+			(end 8.55 -1.55)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "9a415cd9-9c7f-403d-b2dd-a543f51847f0")
+			(layer "F.CrtYd")
+			(uuid "706ba76a-f774-4179-abf0-738cf2f60287")
 		)
 		(fp_line
-			(start 0 0)
-			(end 1.85 0)
+			(start -1.05 1.55)
+			(end 8.55 1.55)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "e2a9246f-24c3-4c00-8895-5688c4e14ee8")
+			(layer "F.CrtYd")
+			(uuid "1b44f39e-e75e-40b9-9647-dd4028179078")
 		)
 		(fp_line
-			(start 7.5 0)
-			(end 5.65 0)
+			(start 5.65 -1.3)
+			(end 1.85 -1.3)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7cf8237c-5e3f-431b-980a-e16f667c45da")
+			(uuid "c52b1cea-73fe-4a15-9a2b-bf61784a58c3")
 		)
 		(fp_line
 			(start 1.85 -1.3)
@@ -19191,14 +19161,44 @@
 			(uuid "b98739bb-4299-4a4d-a4e6-7c58e5e1003b")
 		)
 		(fp_line
-			(start 5.65 -1.3)
-			(end 1.85 -1.3)
+			(start 7.5 0)
+			(end 5.65 0)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c52b1cea-73fe-4a15-9a2b-bf61784a58c3")
+			(uuid "7cf8237c-5e3f-431b-980a-e16f667c45da")
+		)
+		(fp_line
+			(start 0 0)
+			(end 1.85 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e2a9246f-24c3-4c00-8895-5688c4e14ee8")
+		)
+		(fp_line
+			(start 5.65 1.3)
+			(end 5.65 -1.3)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9a415cd9-9c7f-403d-b2dd-a543f51847f0")
+		)
+		(fp_line
+			(start 1.85 1.3)
+			(end 5.65 1.3)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "464223bf-ece3-43cc-bbd5-40b8d8666c2d")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 3.75 0 90)
@@ -19212,7 +19212,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 270)
+			(at 0 0 90)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -19222,7 +19222,7 @@
 			(uuid "2fbdfe51-89d3-42d4-9691-f2852394f728")
 		)
 		(pad "2" thru_hole oval
-			(at 7.5 0 270)
+			(at 7.5 0 90)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -22422,7 +22422,7 @@
 		(layer "F.Cu")
 		(uuid "e76444c7-ec33-496f-bc5a-30821f5aba52")
 		(at 98.5 71)
-		(property "Reference" "G***"
+		(property "Reference" "handlogo"
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
